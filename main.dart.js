@@ -75530,7 +75530,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.Hy.prototype={
 L(a){var s=null
-return new A.x6(new A.vW(s),"Flutter Demo",A.rD(s,A.anW(B.a4,s,s,B.Gl),!0),s)}}
+return new A.x6(new A.vW(s),"\u96c6\u5408\u5566~\u4e2d\u8208\u7db2\u7ad9!!",A.rD(s,A.anW(B.a4,s,s,B.Gl),!0),s)}}
 A.Gl.prototype={
 L(a){var s,r,q,p,o,n,m=null,l="[DEFAULT]",k="date",j=A.bv("\u5b78\u6821\u8cc7\u8a0a",m,m,m,m,m,m,m),i=t.D
 j=A.TP(A.alE(A.b([A.lR("\u6700\u65b0\u6d88\u606f"),A.lR("\u6d3b\u52d5\u6d88\u606f"),A.lR("\u62db\u751f\u3001\u5fb5\u624d")],i)),j)
